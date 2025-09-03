@@ -73,25 +73,95 @@ const desarrollador = {
 </p>
 
 
-
-
 <br>
 <br>
   <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=EstebanOsunaIng&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanOsunaIng&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=EstebanOsunaIng&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<br>
+
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  
+### 🐍 Snake Eating Contributions in the last year
+  
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
+  
+</td>
+</tr>
+</table>
+
+</div>
+<br>
+
+### Mis Proyectos ✨:
+  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/EstebanOsunaIng/infinity-records-backend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstebanOsunaIng&repo=infinity-records-backend&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EstebanOsunaIng/infinity-records-frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstebanOsunaIng&repo=infinity-records-frontend&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/EstebanOsunaIng/API-EJERCITO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstebanOsunaIng&repo=API-EJERCITO&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EstebanOsunaIng/RuletaPruebaTecnicaBackend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstebanOsunaIng&repo=RuletaPruebaTecnicaBackend&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/EstebanOsunaIng/RuletaPruebaTecnicaFrontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstebanOsunaIng&repo=RuletaPruebaTecnicaFrontend&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EstebanOsunaIng/PRUEBA-TECNICA_BACKEND">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstebanOsunaIng&repo=PRUEBA-TECNICA_BACKEND&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/EstebanOsunaIng/PRUEBA-TECNICA_FRONTEND">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstebanOsunaIng&repo=PRUEBA-TECNICA_FRONTEND&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <!-- FOOTER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
+
+
+
 
 
 

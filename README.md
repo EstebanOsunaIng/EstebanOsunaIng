@@ -54,7 +54,7 @@ const desarrollador = {
 <!--icons and links-->
 <p align="center">
 <!-- LinkedIn -->
-<a href="www.linkedin.com/in/kmilo-esteban-baquero-osuna-desarrollador-web-full-stack" target="blank">
+<a href="https://www.linkedin.com/in/esteban-osuna/" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
 

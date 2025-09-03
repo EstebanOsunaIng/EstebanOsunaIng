@@ -12,7 +12,7 @@
 💻 Ingeniero de Sistemas | Desarrollador Full Stack | Especialista en Desarrollo Web
 </div>
 
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/EstebanOsunaIng?label=Follow&style=social)](https://github.com/EstebanOsunaIng)
 
 
 
